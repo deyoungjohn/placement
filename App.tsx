@@ -21,7 +21,8 @@ function App() {
       if (savedTheme) {
         return savedTheme === 'dark';
       }
-      return window.matchMedia('(prefers-color-scheme: dark)').matches;
+      // Default to Light Mode (false) if no preference is saved, ignoring system preference
+      return false; 
     }
     return false;
   });
