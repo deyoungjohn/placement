@@ -2,7 +2,7 @@ import { initializeApp } from "firebase/app";
 import { getAuth, GoogleAuthProvider } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
 
-// TODO: Replace with your actual Firebase project configuration for the Final Year Project
+// Firebase project configuration for the project
 const firebaseConfig = {
   apiKey: "AIzaSyDsbT4Sd67XblxsyhIp7MB6FLv0sutaelA",
   authDomain: "placement-finder-9284d.firebaseapp.com",
@@ -13,7 +13,6 @@ const firebaseConfig = {
 };
 
 // Initialize Firebase
-// Note: In a real deployment, these would use environment variables.
 const app = initializeApp(firebaseConfig);
 
 // Initialize Services
