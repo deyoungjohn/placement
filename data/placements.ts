@@ -12,7 +12,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "hr@bluechip.ng",
     stipend: true,
-    image: PLACEHOLDER_IMAGE,
+    image: 'images/bluechip.webp',
     rating: 4.8
   },
   {
@@ -24,19 +24,19 @@ export const placements: Placement[] = [
     verified: true,
     email: "careers@abujapower.com.ng",
     stipend: true,
-    image: PLACEHOLDER_IMAGE,
+    image: 'images/aedc.jpg',
     rating: 4.5
   },
   {
     id: 3,
-    companyName: "Garki Systems Ltd",
+    companyName: "Infostrategy Technology",
     role: RoleType.HARDWARE,
     location: LocationType.GARKI,
     description: "Repair and maintenance of computer systems and printers.",
     verified: false,
     email: "info@garkisystems.com",
     stipend: false,
-    image: PLACEHOLDER_IMAGE,
+    image: 'images/infostrategy.webp',
     rating: 3.9
   },
   {
@@ -48,19 +48,19 @@ export const placements: Placement[] = [
     verified: true,
     email: "jobs@techvantage.ng",
     stipend: true,
-    image: PLACEHOLDER_IMAGE,
+    image: 'images/techvantage.png',
     rating: 4.2
   },
   {
     id: 5,
-    companyName: "CyberSec Abuja",
+    companyName: "Neocloud Technologies",
     role: RoleType.CYBERSECURITY,
     location: LocationType.JABI,
     description: "Internship in SOC operations and vulnerability assessment.",
     verified: true,
     email: "interns@cybersecabuja.com",
     stipend: false,
-    image: PLACEHOLDER_IMAGE,
+    image: 'images/neocloud.png',
     rating: 4.7
   },
   {
