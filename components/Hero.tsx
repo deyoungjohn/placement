@@ -60,7 +60,7 @@ const Hero: React.FC<HeroProps> = ({ onCtaClick, onHowItWorksClick }) => {
           <div className="flex-1 text-center lg:text-left z-20">
             <div className="inline-flex items-center gap-2 bg-white dark:bg-slate-800 border border-slate-200 dark:border-slate-700 rounded-full px-4 py-1.5 mb-8 shadow-sm cursor-default hover:border-brand-300 dark:hover:border-brand-500 transition-colors animate-float">
               <span className="bg-brand-500 text-white text-[10px] font-bold px-2 py-0.5 rounded-full uppercase tracking-wide">New</span>
-              <span className="text-sm font-medium text-slate-600 dark:text-slate-300">2024 Abuja Placement List</span>
+              <span className="text-sm font-medium text-slate-600 dark:text-slate-300">2026 Abuja Placement List</span>
               <svg className="w-4 h-4 text-slate-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M14 5l7 7m0 0l-7 7m7-7H3"/></svg>
             </div>
             
