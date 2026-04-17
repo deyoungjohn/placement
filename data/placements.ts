@@ -24,7 +24,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "careers@abujapower.com.ng",
     stipend: true,
-    image: '/images/aedc.jpg',
+    image: '/images/AEDC.jpg',
     rating: 4.5
   },
   {
