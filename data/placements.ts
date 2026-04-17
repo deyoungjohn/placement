@@ -12,7 +12,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "hr@bluechip.ng",
     stipend: true,
-    image: '/images/bluechip.webp',
+    image: '../images/bluechip.webp',
     rating: 4.8
   },
   {
