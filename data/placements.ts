@@ -12,7 +12,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "hr@bluechip.ng",
     stipend: true,
-    image: 'images/bluechip.webp',
+    image: '/images/bluechip.webp',
     rating: 4.8
   },
   {
@@ -24,7 +24,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "careers@abujapower.com.ng",
     stipend: true,
-    image: 'images/aedc.jpg',
+    image: '/images/aedc.jpg',
     rating: 4.5
   },
   {
@@ -36,7 +36,7 @@ export const placements: Placement[] = [
     verified: false,
     email: "info@garkisystems.com",
     stipend: false,
-    image: 'images/infostrategy.webp',
+    image: '/images/infostrategy.webp',
     rating: 3.9
   },
   {
@@ -48,7 +48,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "jobs@techvantage.ng",
     stipend: true,
-    image: 'images/techvantage.png',
+    image: '/images/techvantage.png',
     rating: 4.2
   },
   {
@@ -60,7 +60,7 @@ export const placements: Placement[] = [
     verified: true,
     email: "interns@cybersecabuja.com",
     stipend: false,
-    image: 'images/neocloud.png',
+    image: '/images/neocloud.png',
     rating: 4.7
   },
   {
